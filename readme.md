@@ -28,5 +28,5 @@ Once built, run it by specifying the repository path and the rename list file:
 
 
 ```bash
-./gitCaseModifier <repo_path> <csv_file>
+./gitCaseModifier <repo_path> <md_file>
 ```
